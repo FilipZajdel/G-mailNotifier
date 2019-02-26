@@ -1,5 +1,5 @@
-#!/usr/bin/python3.6
-from logger_ import Logger
+#!/usr/bin/python3
+from logger import Logger
 from mailbox import Mailbox
 
 if __name__ == '__main__':
